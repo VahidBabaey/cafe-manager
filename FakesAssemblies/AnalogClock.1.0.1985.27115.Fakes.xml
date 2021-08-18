@@ -1,0 +1,1622 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AnalogClock.1.0.1985.27115.Fakes</name>
+    </assembly>
+    <members>
+        <member name="T:AnalogClock.Fakes.ShimAnalogClock">
+            <summary>Shim type of AnalogClock.AnalogClock</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.ShimAnalogClock.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.ShimAnalogClock.#ctor(AnalogClock.AnalogClock)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="T:AnalogClock.Fakes.ShimAnalogClock.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.AllInstances.AnalogClock_PaintObjectPaintEventArgs">
+            <summary>Sets the shim of AnalogClock.AnalogClock_Paint(Object sender, PaintEventArgs e)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.AllInstances.AnalogClock_ResizeObjectEventArgs">
+            <summary>Sets the shim of AnalogClock.AnalogClock_Resize(Object sender, EventArgs e)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.AllInstances.DisposeBoolean">
+            <summary>Sets the shim of AnalogClock.Dispose(Boolean disposing)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.AllInstances.DrawClockGraphics">
+            <summary>Sets the shim of AnalogClock.DrawClock(Graphics e)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.AllInstances.DrawDropShadowGet">
+            <summary>Sets the shim of AnalogClock.get_DrawDropShadow()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.AllInstances.DrawDropShadowSetBoolean">
+            <summary>Sets the shim of AnalogClock.set_DrawDropShadow(Boolean value)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.AllInstances.DrawHourHandGet">
+            <summary>Sets the shim of AnalogClock.get_DrawHourHand()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.AllInstances.DrawHourHandSetBoolean">
+            <summary>Sets the shim of AnalogClock.set_DrawHourHand(Boolean value)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.AllInstances.DrawHourHandShadowGet">
+            <summary>Sets the shim of AnalogClock.get_DrawHourHandShadow()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.AllInstances.DrawHourHandShadowSetBoolean">
+            <summary>Sets the shim of AnalogClock.set_DrawHourHandShadow(Boolean value)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.AllInstances.DrawMinuteHandGet">
+            <summary>Sets the shim of AnalogClock.get_DrawMinuteHand()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.AllInstances.DrawMinuteHandSetBoolean">
+            <summary>Sets the shim of AnalogClock.set_DrawMinuteHand(Boolean value)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.AllInstances.DrawMinuteHandShadowGet">
+            <summary>Sets the shim of AnalogClock.get_DrawMinuteHandShadow()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.AllInstances.DrawMinuteHandShadowSetBoolean">
+            <summary>Sets the shim of AnalogClock.set_DrawMinuteHandShadow(Boolean value)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.AllInstances.DrawNumeralsGet">
+            <summary>Sets the shim of AnalogClock.get_DrawNumerals()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.AllInstances.DrawNumeralsSetBoolean">
+            <summary>Sets the shim of AnalogClock.set_DrawNumerals(Boolean value)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.AllInstances.DrawRimGet">
+            <summary>Sets the shim of AnalogClock.get_DrawRim()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.AllInstances.DrawRimSetBoolean">
+            <summary>Sets the shim of AnalogClock.set_DrawRim(Boolean value)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.AllInstances.DrawSecondHandGet">
+            <summary>Sets the shim of AnalogClock.get_DrawSecondHand()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.AllInstances.DrawSecondHandSetBoolean">
+            <summary>Sets the shim of AnalogClock.set_DrawSecondHand(Boolean value)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.AllInstances.DrawSecondHandShadowGet">
+            <summary>Sets the shim of AnalogClock.get_DrawSecondHandShadow()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.AllInstances.DrawSecondHandShadowSetBoolean">
+            <summary>Sets the shim of AnalogClock.set_DrawSecondHandShadow(Boolean value)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.AllInstances.DropShadowColorGet">
+            <summary>Sets the shim of AnalogClock.get_DropShadowColor()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.AllInstances.DropShadowColorSetColor">
+            <summary>Sets the shim of AnalogClock.set_DropShadowColor(Color value)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.AllInstances.DropShadowOffsetGet">
+            <summary>Sets the shim of AnalogClock.get_DropShadowOffset()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.AllInstances.DropShadowOffsetSetPoint">
+            <summary>Sets the shim of AnalogClock.set_DropShadowOffset(Point value)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.AllInstances.FaceColorHighGet">
+            <summary>Sets the shim of AnalogClock.get_FaceColorHigh()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.AllInstances.FaceColorHighSetColor">
+            <summary>Sets the shim of AnalogClock.set_FaceColorHigh(Color value)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.AllInstances.FaceColorLowGet">
+            <summary>Sets the shim of AnalogClock.get_FaceColorLow()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.AllInstances.FaceColorLowSetColor">
+            <summary>Sets the shim of AnalogClock.set_FaceColorLow(Color value)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.AllInstances.FaceGradientModeGet">
+            <summary>Sets the shim of AnalogClock.get_FaceGradientMode()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.AllInstances.FaceGradientModeSetLinearGradientMode">
+            <summary>Sets the shim of AnalogClock.set_FaceGradientMode(LinearGradientMode value)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.AllInstances.FaceImageGet">
+            <summary>Sets the shim of AnalogClock.get_FaceImage()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.AllInstances.FaceImageSetImage">
+            <summary>Sets the shim of AnalogClock.set_FaceImage(Image value)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.AllInstances.GetXSingle">
+            <summary>Sets the shim of AnalogClock.GetX(Single deg)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.AllInstances.GetYSingle">
+            <summary>Sets the shim of AnalogClock.GetY(Single deg)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.AllInstances.HourHandColorGet">
+            <summary>Sets the shim of AnalogClock.get_HourHandColor()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.AllInstances.HourHandColorSetColor">
+            <summary>Sets the shim of AnalogClock.set_HourHandColor(Color value)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.AllInstances.HourHandDropShadowColorGet">
+            <summary>Sets the shim of AnalogClock.get_HourHandDropShadowColor()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.AllInstances.HourHandDropShadowColorSetColor">
+            <summary>Sets the shim of AnalogClock.set_HourHandDropShadowColor(Color value)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.AllInstances.InitializeComponent">
+            <summary>Sets the shim of AnalogClock.InitializeComponent()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.AllInstances.MinuteHandColorGet">
+            <summary>Sets the shim of AnalogClock.get_MinuteHandColor()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.AllInstances.MinuteHandColorSetColor">
+            <summary>Sets the shim of AnalogClock.set_MinuteHandColor(Color value)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.AllInstances.MinuteHandDropShadowColorGet">
+            <summary>Sets the shim of AnalogClock.get_MinuteHandDropShadowColor()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.AllInstances.MinuteHandDropShadowColorSetColor">
+            <summary>Sets the shim of AnalogClock.set_MinuteHandDropShadowColor(Color value)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.AllInstances.MinuteHandTickStyleGet">
+            <summary>Sets the shim of AnalogClock.get_MinuteHandTickStyle()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.AllInstances.MinuteHandTickStyleSetTickStyle">
+            <summary>Sets the shim of AnalogClock.set_MinuteHandTickStyle(TickStyle value)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.AllInstances.NumeralColorGet">
+            <summary>Sets the shim of AnalogClock.get_NumeralColor()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.AllInstances.NumeralColorSetColor">
+            <summary>Sets the shim of AnalogClock.set_NumeralColor(Color value)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.AllInstances.RimColorHighGet">
+            <summary>Sets the shim of AnalogClock.get_RimColorHigh()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.AllInstances.RimColorHighSetColor">
+            <summary>Sets the shim of AnalogClock.set_RimColorHigh(Color value)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.AllInstances.RimColorLowGet">
+            <summary>Sets the shim of AnalogClock.get_RimColorLow()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.AllInstances.RimColorLowSetColor">
+            <summary>Sets the shim of AnalogClock.set_RimColorLow(Color value)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.AllInstances.RimGradientModeGet">
+            <summary>Sets the shim of AnalogClock.get_RimGradientMode()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.AllInstances.RimGradientModeSetLinearGradientMode">
+            <summary>Sets the shim of AnalogClock.set_RimGradientMode(LinearGradientMode value)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.AllInstances.SecondHandColorGet">
+            <summary>Sets the shim of AnalogClock.get_SecondHandColor()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.AllInstances.SecondHandColorSetColor">
+            <summary>Sets the shim of AnalogClock.set_SecondHandColor(Color value)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.AllInstances.SecondHandDropShadowColorGet">
+            <summary>Sets the shim of AnalogClock.get_SecondHandDropShadowColor()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.AllInstances.SecondHandDropShadowColorSetColor">
+            <summary>Sets the shim of AnalogClock.set_SecondHandDropShadowColor(Color value)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.AllInstances.SecondHandEndCapGet">
+            <summary>Sets the shim of AnalogClock.get_SecondHandEndCap()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.AllInstances.SecondHandEndCapSetLineCap">
+            <summary>Sets the shim of AnalogClock.set_SecondHandEndCap(LineCap value)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.AllInstances.SecondHandTickStyleGet">
+            <summary>Sets the shim of AnalogClock.get_SecondHandTickStyle()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.AllInstances.SecondHandTickStyleSetTickStyle">
+            <summary>Sets the shim of AnalogClock.set_SecondHandTickStyle(TickStyle value)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.AllInstances.SmoothingModeGet">
+            <summary>Sets the shim of AnalogClock.get_SmoothingMode()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.AllInstances.SmoothingModeSetSmoothingMode">
+            <summary>Sets the shim of AnalogClock.set_SmoothingMode(SmoothingMode value)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.AllInstances.TextRenderingHintGet">
+            <summary>Sets the shim of AnalogClock.get_TextRenderingHint()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.AllInstances.TextRenderingHintSetTextRenderingHint">
+            <summary>Sets the shim of AnalogClock.set_TextRenderingHint(TextRenderingHint value)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.AllInstances.TimeGet">
+            <summary>Sets the shim of AnalogClock.get_Time()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.AllInstances.TimeSetDateTime">
+            <summary>Sets the shim of AnalogClock.set_Time(DateTime value)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.AnalogClock_PaintObjectPaintEventArgs">
+            <summary>Sets the shim of AnalogClock.AnalogClock_Paint(Object sender, PaintEventArgs e)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.AnalogClock_ResizeObjectEventArgs">
+            <summary>Sets the shim of AnalogClock.AnalogClock_Resize(Object sender, EventArgs e)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.ShimAnalogClock.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.ShimAnalogClock.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.ShimAnalogClock.Bind(System.ComponentModel.IComponent)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.ShimAnalogClock.Bind(System.ComponentModel.ISynchronizeInvoke)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.ShimAnalogClock.Bind(System.Windows.Forms.IBindableComponent)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.ShimAnalogClock.Bind(System.Windows.Forms.IContainerControl)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.ShimAnalogClock.Bind(System.Windows.Forms.IDropTarget)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.ShimAnalogClock.Bind(System.Windows.Forms.IWin32Window)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.ShimAnalogClock.Bind(System.IDisposable)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.Constructor">
+            <summary>Sets the shim of AnalogClock.AnalogClock()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.DisposeBoolean">
+            <summary>Sets the shim of AnalogClock.Dispose(Boolean disposing)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.DrawClockGraphics">
+            <summary>Sets the shim of AnalogClock.DrawClock(Graphics e)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.DrawDropShadowGet">
+            <summary>Sets the shim of AnalogClock.get_DrawDropShadow()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.DrawDropShadowSetBoolean">
+            <summary>Sets the shim of AnalogClock.set_DrawDropShadow(Boolean value)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.DrawHourHandGet">
+            <summary>Sets the shim of AnalogClock.get_DrawHourHand()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.DrawHourHandSetBoolean">
+            <summary>Sets the shim of AnalogClock.set_DrawHourHand(Boolean value)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.DrawHourHandShadowGet">
+            <summary>Sets the shim of AnalogClock.get_DrawHourHandShadow()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.DrawHourHandShadowSetBoolean">
+            <summary>Sets the shim of AnalogClock.set_DrawHourHandShadow(Boolean value)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.DrawMinuteHandGet">
+            <summary>Sets the shim of AnalogClock.get_DrawMinuteHand()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.DrawMinuteHandSetBoolean">
+            <summary>Sets the shim of AnalogClock.set_DrawMinuteHand(Boolean value)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.DrawMinuteHandShadowGet">
+            <summary>Sets the shim of AnalogClock.get_DrawMinuteHandShadow()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.DrawMinuteHandShadowSetBoolean">
+            <summary>Sets the shim of AnalogClock.set_DrawMinuteHandShadow(Boolean value)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.DrawNumeralsGet">
+            <summary>Sets the shim of AnalogClock.get_DrawNumerals()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.DrawNumeralsSetBoolean">
+            <summary>Sets the shim of AnalogClock.set_DrawNumerals(Boolean value)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.DrawRimGet">
+            <summary>Sets the shim of AnalogClock.get_DrawRim()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.DrawRimSetBoolean">
+            <summary>Sets the shim of AnalogClock.set_DrawRim(Boolean value)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.DrawSecondHandGet">
+            <summary>Sets the shim of AnalogClock.get_DrawSecondHand()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.DrawSecondHandSetBoolean">
+            <summary>Sets the shim of AnalogClock.set_DrawSecondHand(Boolean value)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.DrawSecondHandShadowGet">
+            <summary>Sets the shim of AnalogClock.get_DrawSecondHandShadow()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.DrawSecondHandShadowSetBoolean">
+            <summary>Sets the shim of AnalogClock.set_DrawSecondHandShadow(Boolean value)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.DropShadowColorGet">
+            <summary>Sets the shim of AnalogClock.get_DropShadowColor()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.DropShadowColorSetColor">
+            <summary>Sets the shim of AnalogClock.set_DropShadowColor(Color value)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.DropShadowOffsetGet">
+            <summary>Sets the shim of AnalogClock.get_DropShadowOffset()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.DropShadowOffsetSetPoint">
+            <summary>Sets the shim of AnalogClock.set_DropShadowOffset(Point value)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.FaceColorHighGet">
+            <summary>Sets the shim of AnalogClock.get_FaceColorHigh()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.FaceColorHighSetColor">
+            <summary>Sets the shim of AnalogClock.set_FaceColorHigh(Color value)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.FaceColorLowGet">
+            <summary>Sets the shim of AnalogClock.get_FaceColorLow()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.FaceColorLowSetColor">
+            <summary>Sets the shim of AnalogClock.set_FaceColorLow(Color value)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.FaceGradientModeGet">
+            <summary>Sets the shim of AnalogClock.get_FaceGradientMode()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.FaceGradientModeSetLinearGradientMode">
+            <summary>Sets the shim of AnalogClock.set_FaceGradientMode(LinearGradientMode value)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.FaceImageGet">
+            <summary>Sets the shim of AnalogClock.get_FaceImage()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.FaceImageSetImage">
+            <summary>Sets the shim of AnalogClock.set_FaceImage(Image value)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.GetXSingle">
+            <summary>Sets the shim of AnalogClock.GetX(Single deg)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.GetYSingle">
+            <summary>Sets the shim of AnalogClock.GetY(Single deg)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.HourHandColorGet">
+            <summary>Sets the shim of AnalogClock.get_HourHandColor()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.HourHandColorSetColor">
+            <summary>Sets the shim of AnalogClock.set_HourHandColor(Color value)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.HourHandDropShadowColorGet">
+            <summary>Sets the shim of AnalogClock.get_HourHandDropShadowColor()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.HourHandDropShadowColorSetColor">
+            <summary>Sets the shim of AnalogClock.set_HourHandDropShadowColor(Color value)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.InitializeComponent">
+            <summary>Sets the shim of AnalogClock.InitializeComponent()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.MinuteHandColorGet">
+            <summary>Sets the shim of AnalogClock.get_MinuteHandColor()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.MinuteHandColorSetColor">
+            <summary>Sets the shim of AnalogClock.set_MinuteHandColor(Color value)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.MinuteHandDropShadowColorGet">
+            <summary>Sets the shim of AnalogClock.get_MinuteHandDropShadowColor()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.MinuteHandDropShadowColorSetColor">
+            <summary>Sets the shim of AnalogClock.set_MinuteHandDropShadowColor(Color value)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.MinuteHandTickStyleGet">
+            <summary>Sets the shim of AnalogClock.get_MinuteHandTickStyle()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.MinuteHandTickStyleSetTickStyle">
+            <summary>Sets the shim of AnalogClock.set_MinuteHandTickStyle(TickStyle value)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.NumeralColorGet">
+            <summary>Sets the shim of AnalogClock.get_NumeralColor()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.NumeralColorSetColor">
+            <summary>Sets the shim of AnalogClock.set_NumeralColor(Color value)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.RimColorHighGet">
+            <summary>Sets the shim of AnalogClock.get_RimColorHigh()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.RimColorHighSetColor">
+            <summary>Sets the shim of AnalogClock.set_RimColorHigh(Color value)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.RimColorLowGet">
+            <summary>Sets the shim of AnalogClock.get_RimColorLow()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.RimColorLowSetColor">
+            <summary>Sets the shim of AnalogClock.set_RimColorLow(Color value)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.RimGradientModeGet">
+            <summary>Sets the shim of AnalogClock.get_RimGradientMode()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.RimGradientModeSetLinearGradientMode">
+            <summary>Sets the shim of AnalogClock.set_RimGradientMode(LinearGradientMode value)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.SecondHandColorGet">
+            <summary>Sets the shim of AnalogClock.get_SecondHandColor()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.SecondHandColorSetColor">
+            <summary>Sets the shim of AnalogClock.set_SecondHandColor(Color value)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.SecondHandDropShadowColorGet">
+            <summary>Sets the shim of AnalogClock.get_SecondHandDropShadowColor()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.SecondHandDropShadowColorSetColor">
+            <summary>Sets the shim of AnalogClock.set_SecondHandDropShadowColor(Color value)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.SecondHandEndCapGet">
+            <summary>Sets the shim of AnalogClock.get_SecondHandEndCap()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.SecondHandEndCapSetLineCap">
+            <summary>Sets the shim of AnalogClock.set_SecondHandEndCap(LineCap value)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.SecondHandTickStyleGet">
+            <summary>Sets the shim of AnalogClock.get_SecondHandTickStyle()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.SecondHandTickStyleSetTickStyle">
+            <summary>Sets the shim of AnalogClock.set_SecondHandTickStyle(TickStyle value)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.SmoothingModeGet">
+            <summary>Sets the shim of AnalogClock.get_SmoothingMode()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.SmoothingModeSetSmoothingMode">
+            <summary>Sets the shim of AnalogClock.set_SmoothingMode(SmoothingMode value)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.TextRenderingHintGet">
+            <summary>Sets the shim of AnalogClock.get_TextRenderingHint()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.TextRenderingHintSetTextRenderingHint">
+            <summary>Sets the shim of AnalogClock.set_TextRenderingHint(TextRenderingHint value)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.TimeGet">
+            <summary>Sets the shim of AnalogClock.get_Time()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.ShimAnalogClock.TimeSetDateTime">
+            <summary>Sets the shim of AnalogClock.set_Time(DateTime value)</summary>
+        </member>
+        <member name="T:AnalogClock.Fakes.StubAnalogClock">
+            <summary>Stub type of AnalogClock.AnalogClock</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.AdjustFormScrollbars(System.Boolean)">
+            <summary>Sets the stub of ContainerControl.AdjustFormScrollbars(Boolean displayScrollbars)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.AdjustFormScrollbarsBoolean">
+            <summary>Sets the stub of ContainerControl.AdjustFormScrollbars(Boolean displayScrollbars)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.StubAnalogClock.AllowDrop">
+            <summary>Sets the stub of Control.get_AllowDrop()</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.AllowDropGet">
+            <summary>Sets the stub of Control.get_AllowDrop()</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.AllowDropSetBoolean">
+            <summary>Sets the stub of Control.set_AllowDrop(Boolean value)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.StubAnalogClock.Anchor">
+            <summary>Sets the stub of Control.get_Anchor()</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.AnchorGet">
+            <summary>Sets the stub of Control.get_Anchor()</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.AnchorSetAnchorStyles">
+            <summary>Sets the stub of Control.set_Anchor(AnchorStyles value)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.AttachBackingFieldToAllowDrop">
+            <summary>Attaches delegates to emulate StubAnalogClock.AllowDrop as a property with a backing field.</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.AttachBackingFieldToAnchor">
+            <summary>Attaches delegates to emulate StubAnalogClock.Anchor as a property with a backing field.</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.AttachBackingFieldToAutoScroll">
+            <summary>Attaches delegates to emulate StubAnalogClock.AutoScroll as a property with a backing field.</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.AttachBackingFieldToAutoScrollOffset">
+            <summary>Attaches delegates to emulate StubAnalogClock.AutoScrollOffset as a property with a backing field.</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.AttachBackingFieldToAutoSize">
+            <summary>Attaches delegates to emulate StubAnalogClock.AutoSize as a property with a backing field.</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.AttachBackingFieldToAutoValidate">
+            <summary>Attaches delegates to emulate StubAnalogClock.AutoValidate as a property with a backing field.</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.AttachBackingFieldToBackColor">
+            <summary>Attaches delegates to emulate StubAnalogClock.BackColor as a property with a backing field.</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.AttachBackingFieldToBackgroundImage">
+            <summary>Attaches delegates to emulate StubAnalogClock.BackgroundImage as a property with a backing field.</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.AttachBackingFieldToBackgroundImageLayout">
+            <summary>Attaches delegates to emulate StubAnalogClock.BackgroundImageLayout as a property with a backing field.</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.AttachBackingFieldToBindingContext">
+            <summary>Attaches delegates to emulate StubAnalogClock.BindingContext as a property with a backing field.</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.AttachBackingFieldToContextMenu">
+            <summary>Attaches delegates to emulate StubAnalogClock.ContextMenu as a property with a backing field.</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.AttachBackingFieldToContextMenuStrip">
+            <summary>Attaches delegates to emulate StubAnalogClock.ContextMenuStrip as a property with a backing field.</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.AttachBackingFieldToCursor">
+            <summary>Attaches delegates to emulate StubAnalogClock.Cursor as a property with a backing field.</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.AttachBackingFieldToDock">
+            <summary>Attaches delegates to emulate StubAnalogClock.Dock as a property with a backing field.</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.AttachBackingFieldToDoubleBuffered">
+            <summary>Attaches delegates to emulate StubAnalogClock.DoubleBuffered as a property with a backing field.</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.AttachBackingFieldToFont">
+            <summary>Attaches delegates to emulate StubAnalogClock.Font as a property with a backing field.</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.AttachBackingFieldToForeColor">
+            <summary>Attaches delegates to emulate StubAnalogClock.ForeColor as a property with a backing field.</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.AttachBackingFieldToImeModeBase">
+            <summary>Attaches delegates to emulate StubAnalogClock.ImeModeBase as a property with a backing field.</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.AttachBackingFieldToMaximumSize">
+            <summary>Attaches delegates to emulate StubAnalogClock.MaximumSize as a property with a backing field.</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.AttachBackingFieldToMinimumSize">
+            <summary>Attaches delegates to emulate StubAnalogClock.MinimumSize as a property with a backing field.</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.AttachBackingFieldToRightToLeft">
+            <summary>Attaches delegates to emulate StubAnalogClock.RightToLeft as a property with a backing field.</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.AttachBackingFieldToSite">
+            <summary>Attaches delegates to emulate StubAnalogClock.Site as a property with a backing field.</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.AttachBackingFieldToText">
+            <summary>Attaches delegates to emulate StubAnalogClock.Text as a property with a backing field.</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.StubAnalogClock.AutoScroll">
+            <summary>Sets the stub of ScrollableControl.get_AutoScroll()</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.AutoScrollGet">
+            <summary>Sets the stub of ScrollableControl.get_AutoScroll()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.StubAnalogClock.AutoScrollOffset">
+            <summary>Sets the stub of Control.get_AutoScrollOffset()</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.AutoScrollOffsetGet">
+            <summary>Sets the stub of Control.get_AutoScrollOffset()</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.AutoScrollOffsetSetPoint">
+            <summary>Sets the stub of Control.set_AutoScrollOffset(Point value)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.AutoScrollSetBoolean">
+            <summary>Sets the stub of ScrollableControl.set_AutoScroll(Boolean value)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.StubAnalogClock.AutoSize">
+            <summary>Sets the stub of UserControl.get_AutoSize()</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.AutoSizeGet">
+            <summary>Sets the stub of UserControl.get_AutoSize()</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.AutoSizeSetBoolean">
+            <summary>Sets the stub of UserControl.set_AutoSize(Boolean value)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.StubAnalogClock.AutoValidate">
+            <summary>Sets the stub of UserControl.get_AutoValidate()</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.AutoValidateGet">
+            <summary>Sets the stub of UserControl.get_AutoValidate()</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.AutoValidateSetAutoValidate">
+            <summary>Sets the stub of UserControl.set_AutoValidate(AutoValidate value)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.StubAnalogClock.BackColor">
+            <summary>Sets the stub of Control.get_BackColor()</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.BackColorGet">
+            <summary>Sets the stub of Control.get_BackColor()</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.BackColorSetColor">
+            <summary>Sets the stub of Control.set_BackColor(Color value)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.StubAnalogClock.BackgroundImage">
+            <summary>Sets the stub of Control.get_BackgroundImage()</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.BackgroundImageGet">
+            <summary>Sets the stub of Control.get_BackgroundImage()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.StubAnalogClock.BackgroundImageLayout">
+            <summary>Sets the stub of Control.get_BackgroundImageLayout()</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.BackgroundImageLayoutGet">
+            <summary>Sets the stub of Control.get_BackgroundImageLayout()</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.BackgroundImageLayoutSetImageLayout">
+            <summary>Sets the stub of Control.set_BackgroundImageLayout(ImageLayout value)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.BackgroundImageSetImage">
+            <summary>Sets the stub of Control.set_BackgroundImage(Image value)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.StubAnalogClock.BindingContext">
+            <summary>Sets the stub of ContainerControl.get_BindingContext()</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.BindingContextGet">
+            <summary>Sets the stub of ContainerControl.get_BindingContext()</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.BindingContextSetBindingContext">
+            <summary>Sets the stub of ContainerControl.set_BindingContext(BindingContext value)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.StubAnalogClock.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.StubAnalogClock.CanEnableIme">
+            <summary>Sets the stub of ContainerControl.get_CanEnableIme()</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.CanEnableImeGet">
+            <summary>Sets the stub of ContainerControl.get_CanEnableIme()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.StubAnalogClock.CanRaiseEvents">
+            <summary>Sets the stub of Control.get_CanRaiseEvents()</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.CanRaiseEventsGet">
+            <summary>Sets the stub of Control.get_CanRaiseEvents()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.StubAnalogClock.ContextMenu">
+            <summary>Sets the stub of Control.get_ContextMenu()</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.ContextMenuGet">
+            <summary>Sets the stub of Control.get_ContextMenu()</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.ContextMenuSetContextMenu">
+            <summary>Sets the stub of Control.set_ContextMenu(ContextMenu value)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.StubAnalogClock.ContextMenuStrip">
+            <summary>Sets the stub of Control.get_ContextMenuStrip()</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.ContextMenuStripGet">
+            <summary>Sets the stub of Control.get_ContextMenuStrip()</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.ContextMenuStripSetContextMenuStrip">
+            <summary>Sets the stub of Control.set_ContextMenuStrip(ContextMenuStrip value)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.CreateAccessibilityInstance">
+            <summary>Sets the stub of Control.CreateAccessibilityInstance()</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.CreateAccessibilityInstance01">
+            <summary>Sets the stub of Control.CreateAccessibilityInstance()</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.CreateControlsInstance">
+            <summary>Sets the stub of Control.CreateControlsInstance()</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.CreateControlsInstance01">
+            <summary>Sets the stub of Control.CreateControlsInstance()</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.CreateHandle">
+            <summary>Sets the stub of Control.CreateHandle()</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.CreateHandle01">
+            <summary>Sets the stub of Control.CreateHandle()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.StubAnalogClock.CreateParams">
+            <summary>Sets the stub of UserControl.get_CreateParams()</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.CreateParamsGet">
+            <summary>Sets the stub of UserControl.get_CreateParams()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.StubAnalogClock.Cursor">
+            <summary>Sets the stub of Control.get_Cursor()</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.CursorGet">
+            <summary>Sets the stub of Control.get_Cursor()</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.CursorSetCursor">
+            <summary>Sets the stub of Control.set_Cursor(Cursor value)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.DefWndProc(System.Windows.Forms.Message@)">
+            <summary>Sets the stub of Control.DefWndProc(Message&amp; m)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.DefWndProcMessageRef">
+            <summary>Sets the stub of Control.DefWndProc(Message&amp; m)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.StubAnalogClock.DefaultCursor">
+            <summary>Sets the stub of Control.get_DefaultCursor()</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.DefaultCursorGet">
+            <summary>Sets the stub of Control.get_DefaultCursor()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.StubAnalogClock.DefaultImeMode">
+            <summary>Sets the stub of Control.get_DefaultImeMode()</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.DefaultImeModeGet">
+            <summary>Sets the stub of Control.get_DefaultImeMode()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.StubAnalogClock.DefaultMargin">
+            <summary>Sets the stub of Control.get_DefaultMargin()</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.DefaultMarginGet">
+            <summary>Sets the stub of Control.get_DefaultMargin()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.StubAnalogClock.DefaultMaximumSize">
+            <summary>Sets the stub of Control.get_DefaultMaximumSize()</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.DefaultMaximumSizeGet">
+            <summary>Sets the stub of Control.get_DefaultMaximumSize()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.StubAnalogClock.DefaultMinimumSize">
+            <summary>Sets the stub of Control.get_DefaultMinimumSize()</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.DefaultMinimumSizeGet">
+            <summary>Sets the stub of Control.get_DefaultMinimumSize()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.StubAnalogClock.DefaultPadding">
+            <summary>Sets the stub of Control.get_DefaultPadding()</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.DefaultPaddingGet">
+            <summary>Sets the stub of Control.get_DefaultPadding()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.StubAnalogClock.DefaultSize">
+            <summary>Sets the stub of UserControl.get_DefaultSize()</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.DefaultSizeGet">
+            <summary>Sets the stub of UserControl.get_DefaultSize()</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.DestroyHandle">
+            <summary>Sets the stub of Control.DestroyHandle()</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.DestroyHandle01">
+            <summary>Sets the stub of Control.DestroyHandle()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.StubAnalogClock.DisplayRectangle">
+            <summary>Sets the stub of ScrollableControl.get_DisplayRectangle()</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.DisplayRectangleGet">
+            <summary>Sets the stub of ScrollableControl.get_DisplayRectangle()</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.Dispose(System.Boolean)">
+            <summary>Sets the stub of AnalogClock.Dispose(Boolean disposing)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.DisposeBoolean">
+            <summary>Sets the stub of AnalogClock.Dispose(Boolean disposing)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.StubAnalogClock.Dock">
+            <summary>Sets the stub of Control.get_Dock()</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.DockGet">
+            <summary>Sets the stub of Control.get_Dock()</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.DockSetDockStyle">
+            <summary>Sets the stub of Control.set_Dock(DockStyle value)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.StubAnalogClock.DoubleBuffered">
+            <summary>Sets the stub of Control.get_DoubleBuffered()</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.DoubleBufferedGet">
+            <summary>Sets the stub of Control.get_DoubleBuffered()</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.DoubleBufferedSetBoolean">
+            <summary>Sets the stub of Control.set_DoubleBuffered(Boolean value)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.StubAnalogClock.Focused">
+            <summary>Sets the stub of Control.get_Focused()</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.FocusedGet">
+            <summary>Sets the stub of Control.get_Focused()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.StubAnalogClock.Font">
+            <summary>Sets the stub of Control.get_Font()</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.FontGet">
+            <summary>Sets the stub of Control.get_Font()</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.FontSetFont">
+            <summary>Sets the stub of Control.set_Font(Font value)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.StubAnalogClock.ForeColor">
+            <summary>Sets the stub of Control.get_ForeColor()</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.ForeColorGet">
+            <summary>Sets the stub of Control.get_ForeColor()</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.ForeColorSetColor">
+            <summary>Sets the stub of Control.set_ForeColor(Color value)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.GetAccessibilityObjectById(System.Int32)">
+            <summary>Sets the stub of Control.GetAccessibilityObjectById(Int32 objectId)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.GetAccessibilityObjectByIdInt32">
+            <summary>Sets the stub of Control.GetAccessibilityObjectById(Int32 objectId)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.GetPreferredSize(System.Drawing.Size)">
+            <summary>Sets the stub of Control.GetPreferredSize(Size proposedSize)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.GetPreferredSizeSize">
+            <summary>Sets the stub of Control.GetPreferredSize(Size proposedSize)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.GetScaledBounds(System.Drawing.Rectangle,System.Drawing.SizeF,System.Windows.Forms.BoundsSpecified)">
+            <summary>Sets the stub of Control.GetScaledBounds(Rectangle bounds, SizeF factor, BoundsSpecified specified)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.GetScaledBoundsRectangleSizeFBoundsSpecified">
+            <summary>Sets the stub of Control.GetScaledBounds(Rectangle bounds, SizeF factor, BoundsSpecified specified)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.GetService(System.Type)">
+            <summary>Sets the stub of Component.GetService(Type service)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.GetServiceType">
+            <summary>Sets the stub of Component.GetService(Type service)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.StubAnalogClock.ImeModeBase">
+            <summary>Sets the stub of Control.get_ImeModeBase()</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.ImeModeBaseGet">
+            <summary>Sets the stub of Control.get_ImeModeBase()</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.ImeModeBaseSetImeMode">
+            <summary>Sets the stub of Control.set_ImeModeBase(ImeMode value)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.InitLayout">
+            <summary>Sets the stub of Control.InitLayout()</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.InitLayout01">
+            <summary>Sets the stub of Control.InitLayout()</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.InitializeStub">
+            <summary>Initializes a new instance of type StubAnalogClock</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.StubAnalogClock.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.StubAnalogClock.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.IsInputChar(System.Char)">
+            <summary>Sets the stub of Control.IsInputChar(Char charCode)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.IsInputCharChar">
+            <summary>Sets the stub of Control.IsInputChar(Char charCode)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.IsInputKey(System.Windows.Forms.Keys)">
+            <summary>Sets the stub of Control.IsInputKey(Keys keyData)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.IsInputKeyKeys">
+            <summary>Sets the stub of Control.IsInputKey(Keys keyData)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.StubAnalogClock.LayoutEngine">
+            <summary>Sets the stub of Control.get_LayoutEngine()</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.LayoutEngineGet">
+            <summary>Sets the stub of Control.get_LayoutEngine()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.StubAnalogClock.MaximumSize">
+            <summary>Sets the stub of Control.get_MaximumSize()</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.MaximumSizeGet">
+            <summary>Sets the stub of Control.get_MaximumSize()</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.MaximumSizeSetSize">
+            <summary>Sets the stub of Control.set_MaximumSize(Size value)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.StubAnalogClock.MinimumSize">
+            <summary>Sets the stub of Control.get_MinimumSize()</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.MinimumSizeGet">
+            <summary>Sets the stub of Control.get_MinimumSize()</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.MinimumSizeSetSize">
+            <summary>Sets the stub of Control.set_MinimumSize(Size value)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.NotifyInvalidate(System.Drawing.Rectangle)">
+            <summary>Sets the stub of Control.NotifyInvalidate(Rectangle invalidatedArea)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.NotifyInvalidateRectangle">
+            <summary>Sets the stub of Control.NotifyInvalidate(Rectangle invalidatedArea)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnAutoSizeChanged(System.EventArgs)">
+            <summary>Sets the stub of Control.OnAutoSizeChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnAutoSizeChangedEventArgs">
+            <summary>Sets the stub of Control.OnAutoSizeChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnAutoValidateChanged(System.EventArgs)">
+            <summary>Sets the stub of ContainerControl.OnAutoValidateChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnAutoValidateChangedEventArgs">
+            <summary>Sets the stub of ContainerControl.OnAutoValidateChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnBackColorChanged(System.EventArgs)">
+            <summary>Sets the stub of Control.OnBackColorChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnBackColorChangedEventArgs">
+            <summary>Sets the stub of Control.OnBackColorChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnBackgroundImageChanged(System.EventArgs)">
+            <summary>Sets the stub of Control.OnBackgroundImageChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnBackgroundImageChangedEventArgs">
+            <summary>Sets the stub of Control.OnBackgroundImageChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnBackgroundImageLayoutChanged(System.EventArgs)">
+            <summary>Sets the stub of Control.OnBackgroundImageLayoutChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnBackgroundImageLayoutChangedEventArgs">
+            <summary>Sets the stub of Control.OnBackgroundImageLayoutChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnBindingContextChanged(System.EventArgs)">
+            <summary>Sets the stub of Control.OnBindingContextChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnBindingContextChangedEventArgs">
+            <summary>Sets the stub of Control.OnBindingContextChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnCausesValidationChanged(System.EventArgs)">
+            <summary>Sets the stub of Control.OnCausesValidationChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnCausesValidationChangedEventArgs">
+            <summary>Sets the stub of Control.OnCausesValidationChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnChangeUICues(System.Windows.Forms.UICuesEventArgs)">
+            <summary>Sets the stub of Control.OnChangeUICues(UICuesEventArgs e)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnChangeUICuesUICuesEventArgs">
+            <summary>Sets the stub of Control.OnChangeUICues(UICuesEventArgs e)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnClick(System.EventArgs)">
+            <summary>Sets the stub of Control.OnClick(EventArgs e)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnClickEventArgs">
+            <summary>Sets the stub of Control.OnClick(EventArgs e)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnClientSizeChanged(System.EventArgs)">
+            <summary>Sets the stub of Control.OnClientSizeChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnClientSizeChangedEventArgs">
+            <summary>Sets the stub of Control.OnClientSizeChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnContextMenuChanged(System.EventArgs)">
+            <summary>Sets the stub of Control.OnContextMenuChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnContextMenuChangedEventArgs">
+            <summary>Sets the stub of Control.OnContextMenuChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnContextMenuStripChanged(System.EventArgs)">
+            <summary>Sets the stub of Control.OnContextMenuStripChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnContextMenuStripChangedEventArgs">
+            <summary>Sets the stub of Control.OnContextMenuStripChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnControlAdded(System.Windows.Forms.ControlEventArgs)">
+            <summary>Sets the stub of Control.OnControlAdded(ControlEventArgs e)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnControlAddedControlEventArgs">
+            <summary>Sets the stub of Control.OnControlAdded(ControlEventArgs e)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnControlRemoved(System.Windows.Forms.ControlEventArgs)">
+            <summary>Sets the stub of Control.OnControlRemoved(ControlEventArgs e)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnControlRemovedControlEventArgs">
+            <summary>Sets the stub of Control.OnControlRemoved(ControlEventArgs e)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnCreateControl">
+            <summary>Sets the stub of UserControl.OnCreateControl()</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnCreateControl01">
+            <summary>Sets the stub of UserControl.OnCreateControl()</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnCursorChanged(System.EventArgs)">
+            <summary>Sets the stub of Control.OnCursorChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnCursorChangedEventArgs">
+            <summary>Sets the stub of Control.OnCursorChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnDockChanged(System.EventArgs)">
+            <summary>Sets the stub of Control.OnDockChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnDockChangedEventArgs">
+            <summary>Sets the stub of Control.OnDockChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnDoubleClick(System.EventArgs)">
+            <summary>Sets the stub of Control.OnDoubleClick(EventArgs e)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnDoubleClickEventArgs">
+            <summary>Sets the stub of Control.OnDoubleClick(EventArgs e)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnDragDrop(System.Windows.Forms.DragEventArgs)">
+            <summary>Sets the stub of Control.OnDragDrop(DragEventArgs drgevent)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnDragDropDragEventArgs">
+            <summary>Sets the stub of Control.OnDragDrop(DragEventArgs drgevent)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnDragEnter(System.Windows.Forms.DragEventArgs)">
+            <summary>Sets the stub of Control.OnDragEnter(DragEventArgs drgevent)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnDragEnterDragEventArgs">
+            <summary>Sets the stub of Control.OnDragEnter(DragEventArgs drgevent)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnDragLeave(System.EventArgs)">
+            <summary>Sets the stub of Control.OnDragLeave(EventArgs e)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnDragLeaveEventArgs">
+            <summary>Sets the stub of Control.OnDragLeave(EventArgs e)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnDragOver(System.Windows.Forms.DragEventArgs)">
+            <summary>Sets the stub of Control.OnDragOver(DragEventArgs drgevent)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnDragOverDragEventArgs">
+            <summary>Sets the stub of Control.OnDragOver(DragEventArgs drgevent)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnEnabledChanged(System.EventArgs)">
+            <summary>Sets the stub of Control.OnEnabledChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnEnabledChangedEventArgs">
+            <summary>Sets the stub of Control.OnEnabledChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnEnter(System.EventArgs)">
+            <summary>Sets the stub of Control.OnEnter(EventArgs e)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnEnterEventArgs">
+            <summary>Sets the stub of Control.OnEnter(EventArgs e)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnFontChanged(System.EventArgs)">
+            <summary>Sets the stub of ContainerControl.OnFontChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnFontChangedEventArgs">
+            <summary>Sets the stub of ContainerControl.OnFontChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnForeColorChanged(System.EventArgs)">
+            <summary>Sets the stub of Control.OnForeColorChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnForeColorChangedEventArgs">
+            <summary>Sets the stub of Control.OnForeColorChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnGiveFeedback(System.Windows.Forms.GiveFeedbackEventArgs)">
+            <summary>Sets the stub of Control.OnGiveFeedback(GiveFeedbackEventArgs gfbevent)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnGiveFeedbackGiveFeedbackEventArgs">
+            <summary>Sets the stub of Control.OnGiveFeedback(GiveFeedbackEventArgs gfbevent)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnGotFocus(System.EventArgs)">
+            <summary>Sets the stub of Control.OnGotFocus(EventArgs e)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnGotFocusEventArgs">
+            <summary>Sets the stub of Control.OnGotFocus(EventArgs e)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnHandleCreated(System.EventArgs)">
+            <summary>Sets the stub of Control.OnHandleCreated(EventArgs e)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnHandleCreatedEventArgs">
+            <summary>Sets the stub of Control.OnHandleCreated(EventArgs e)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnHandleDestroyed(System.EventArgs)">
+            <summary>Sets the stub of Control.OnHandleDestroyed(EventArgs e)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnHandleDestroyedEventArgs">
+            <summary>Sets the stub of Control.OnHandleDestroyed(EventArgs e)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnHelpRequested(System.Windows.Forms.HelpEventArgs)">
+            <summary>Sets the stub of Control.OnHelpRequested(HelpEventArgs hevent)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnHelpRequestedHelpEventArgs">
+            <summary>Sets the stub of Control.OnHelpRequested(HelpEventArgs hevent)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnImeModeChanged(System.EventArgs)">
+            <summary>Sets the stub of Control.OnImeModeChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnImeModeChangedEventArgs">
+            <summary>Sets the stub of Control.OnImeModeChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnInvalidated(System.Windows.Forms.InvalidateEventArgs)">
+            <summary>Sets the stub of Control.OnInvalidated(InvalidateEventArgs e)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnInvalidatedInvalidateEventArgs">
+            <summary>Sets the stub of Control.OnInvalidated(InvalidateEventArgs e)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnKeyDown(System.Windows.Forms.KeyEventArgs)">
+            <summary>Sets the stub of Control.OnKeyDown(KeyEventArgs e)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnKeyDownKeyEventArgs">
+            <summary>Sets the stub of Control.OnKeyDown(KeyEventArgs e)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnKeyPress(System.Windows.Forms.KeyPressEventArgs)">
+            <summary>Sets the stub of Control.OnKeyPress(KeyPressEventArgs e)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnKeyPressKeyPressEventArgs">
+            <summary>Sets the stub of Control.OnKeyPress(KeyPressEventArgs e)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnKeyUp(System.Windows.Forms.KeyEventArgs)">
+            <summary>Sets the stub of Control.OnKeyUp(KeyEventArgs e)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnKeyUpKeyEventArgs">
+            <summary>Sets the stub of Control.OnKeyUp(KeyEventArgs e)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnLayout(System.Windows.Forms.LayoutEventArgs)">
+            <summary>Sets the stub of ContainerControl.OnLayout(LayoutEventArgs e)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnLayoutLayoutEventArgs">
+            <summary>Sets the stub of ContainerControl.OnLayout(LayoutEventArgs e)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnLeave(System.EventArgs)">
+            <summary>Sets the stub of Control.OnLeave(EventArgs e)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnLeaveEventArgs">
+            <summary>Sets the stub of Control.OnLeave(EventArgs e)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnLoad(System.EventArgs)">
+            <summary>Sets the stub of UserControl.OnLoad(EventArgs e)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnLoadEventArgs">
+            <summary>Sets the stub of UserControl.OnLoad(EventArgs e)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnLocationChanged(System.EventArgs)">
+            <summary>Sets the stub of Control.OnLocationChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnLocationChangedEventArgs">
+            <summary>Sets the stub of Control.OnLocationChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnLostFocus(System.EventArgs)">
+            <summary>Sets the stub of Control.OnLostFocus(EventArgs e)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnLostFocusEventArgs">
+            <summary>Sets the stub of Control.OnLostFocus(EventArgs e)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnMarginChanged(System.EventArgs)">
+            <summary>Sets the stub of Control.OnMarginChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnMarginChangedEventArgs">
+            <summary>Sets the stub of Control.OnMarginChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnMouseCaptureChanged(System.EventArgs)">
+            <summary>Sets the stub of Control.OnMouseCaptureChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnMouseCaptureChangedEventArgs">
+            <summary>Sets the stub of Control.OnMouseCaptureChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnMouseClick(System.Windows.Forms.MouseEventArgs)">
+            <summary>Sets the stub of Control.OnMouseClick(MouseEventArgs e)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnMouseClickMouseEventArgs">
+            <summary>Sets the stub of Control.OnMouseClick(MouseEventArgs e)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnMouseDoubleClick(System.Windows.Forms.MouseEventArgs)">
+            <summary>Sets the stub of Control.OnMouseDoubleClick(MouseEventArgs e)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnMouseDoubleClickMouseEventArgs">
+            <summary>Sets the stub of Control.OnMouseDoubleClick(MouseEventArgs e)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnMouseDown(System.Windows.Forms.MouseEventArgs)">
+            <summary>Sets the stub of UserControl.OnMouseDown(MouseEventArgs e)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnMouseDownMouseEventArgs">
+            <summary>Sets the stub of UserControl.OnMouseDown(MouseEventArgs e)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnMouseEnter(System.EventArgs)">
+            <summary>Sets the stub of Control.OnMouseEnter(EventArgs e)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnMouseEnterEventArgs">
+            <summary>Sets the stub of Control.OnMouseEnter(EventArgs e)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnMouseHover(System.EventArgs)">
+            <summary>Sets the stub of Control.OnMouseHover(EventArgs e)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnMouseHoverEventArgs">
+            <summary>Sets the stub of Control.OnMouseHover(EventArgs e)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnMouseLeave(System.EventArgs)">
+            <summary>Sets the stub of Control.OnMouseLeave(EventArgs e)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnMouseLeaveEventArgs">
+            <summary>Sets the stub of Control.OnMouseLeave(EventArgs e)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnMouseMove(System.Windows.Forms.MouseEventArgs)">
+            <summary>Sets the stub of Control.OnMouseMove(MouseEventArgs e)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnMouseMoveMouseEventArgs">
+            <summary>Sets the stub of Control.OnMouseMove(MouseEventArgs e)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnMouseUp(System.Windows.Forms.MouseEventArgs)">
+            <summary>Sets the stub of Control.OnMouseUp(MouseEventArgs e)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnMouseUpMouseEventArgs">
+            <summary>Sets the stub of Control.OnMouseUp(MouseEventArgs e)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnMouseWheel(System.Windows.Forms.MouseEventArgs)">
+            <summary>Sets the stub of ScrollableControl.OnMouseWheel(MouseEventArgs e)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnMouseWheelMouseEventArgs">
+            <summary>Sets the stub of ScrollableControl.OnMouseWheel(MouseEventArgs e)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnMove(System.EventArgs)">
+            <summary>Sets the stub of Control.OnMove(EventArgs e)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnMoveEventArgs">
+            <summary>Sets the stub of Control.OnMove(EventArgs e)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnNotifyMessage(System.Windows.Forms.Message)">
+            <summary>Sets the stub of Control.OnNotifyMessage(Message m)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnNotifyMessageMessage">
+            <summary>Sets the stub of Control.OnNotifyMessage(Message m)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnPaddingChanged(System.EventArgs)">
+            <summary>Sets the stub of ScrollableControl.OnPaddingChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnPaddingChangedEventArgs">
+            <summary>Sets the stub of ScrollableControl.OnPaddingChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnPaint(System.Windows.Forms.PaintEventArgs)">
+            <summary>Sets the stub of Control.OnPaint(PaintEventArgs e)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnPaintBackground(System.Windows.Forms.PaintEventArgs)">
+            <summary>Sets the stub of ScrollableControl.OnPaintBackground(PaintEventArgs e)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnPaintBackgroundPaintEventArgs">
+            <summary>Sets the stub of ScrollableControl.OnPaintBackground(PaintEventArgs e)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnPaintPaintEventArgs">
+            <summary>Sets the stub of Control.OnPaint(PaintEventArgs e)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnParentBackColorChanged(System.EventArgs)">
+            <summary>Sets the stub of Control.OnParentBackColorChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnParentBackColorChangedEventArgs">
+            <summary>Sets the stub of Control.OnParentBackColorChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnParentBackgroundImageChanged(System.EventArgs)">
+            <summary>Sets the stub of Control.OnParentBackgroundImageChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnParentBackgroundImageChangedEventArgs">
+            <summary>Sets the stub of Control.OnParentBackgroundImageChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnParentBindingContextChanged(System.EventArgs)">
+            <summary>Sets the stub of Control.OnParentBindingContextChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnParentBindingContextChangedEventArgs">
+            <summary>Sets the stub of Control.OnParentBindingContextChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnParentChanged(System.EventArgs)">
+            <summary>Sets the stub of ContainerControl.OnParentChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnParentChangedEventArgs">
+            <summary>Sets the stub of ContainerControl.OnParentChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnParentCursorChanged(System.EventArgs)">
+            <summary>Sets the stub of Control.OnParentCursorChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnParentCursorChangedEventArgs">
+            <summary>Sets the stub of Control.OnParentCursorChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnParentEnabledChanged(System.EventArgs)">
+            <summary>Sets the stub of Control.OnParentEnabledChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnParentEnabledChangedEventArgs">
+            <summary>Sets the stub of Control.OnParentEnabledChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnParentFontChanged(System.EventArgs)">
+            <summary>Sets the stub of Control.OnParentFontChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnParentFontChangedEventArgs">
+            <summary>Sets the stub of Control.OnParentFontChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnParentForeColorChanged(System.EventArgs)">
+            <summary>Sets the stub of Control.OnParentForeColorChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnParentForeColorChangedEventArgs">
+            <summary>Sets the stub of Control.OnParentForeColorChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnParentRightToLeftChanged(System.EventArgs)">
+            <summary>Sets the stub of Control.OnParentRightToLeftChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnParentRightToLeftChangedEventArgs">
+            <summary>Sets the stub of Control.OnParentRightToLeftChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnParentVisibleChanged(System.EventArgs)">
+            <summary>Sets the stub of Control.OnParentVisibleChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnParentVisibleChangedEventArgs">
+            <summary>Sets the stub of Control.OnParentVisibleChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnPreviewKeyDown(System.Windows.Forms.PreviewKeyDownEventArgs)">
+            <summary>Sets the stub of Control.OnPreviewKeyDown(PreviewKeyDownEventArgs e)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnPreviewKeyDownPreviewKeyDownEventArgs">
+            <summary>Sets the stub of Control.OnPreviewKeyDown(PreviewKeyDownEventArgs e)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnPrint(System.Windows.Forms.PaintEventArgs)">
+            <summary>Sets the stub of Control.OnPrint(PaintEventArgs e)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnPrintPaintEventArgs">
+            <summary>Sets the stub of Control.OnPrint(PaintEventArgs e)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnQueryContinueDrag(System.Windows.Forms.QueryContinueDragEventArgs)">
+            <summary>Sets the stub of Control.OnQueryContinueDrag(QueryContinueDragEventArgs qcdevent)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnQueryContinueDragQueryContinueDragEventArgs">
+            <summary>Sets the stub of Control.OnQueryContinueDrag(QueryContinueDragEventArgs qcdevent)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnRegionChanged(System.EventArgs)">
+            <summary>Sets the stub of Control.OnRegionChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnRegionChangedEventArgs">
+            <summary>Sets the stub of Control.OnRegionChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnResize(System.EventArgs)">
+            <summary>Sets the stub of UserControl.OnResize(EventArgs e)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnResizeEventArgs">
+            <summary>Sets the stub of UserControl.OnResize(EventArgs e)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnRightToLeftChanged(System.EventArgs)">
+            <summary>Sets the stub of ScrollableControl.OnRightToLeftChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnRightToLeftChangedEventArgs">
+            <summary>Sets the stub of ScrollableControl.OnRightToLeftChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnScroll(System.Windows.Forms.ScrollEventArgs)">
+            <summary>Sets the stub of ScrollableControl.OnScroll(ScrollEventArgs se)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnScrollScrollEventArgs">
+            <summary>Sets the stub of ScrollableControl.OnScroll(ScrollEventArgs se)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnSizeChanged(System.EventArgs)">
+            <summary>Sets the stub of Control.OnSizeChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnSizeChangedEventArgs">
+            <summary>Sets the stub of Control.OnSizeChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnStyleChanged(System.EventArgs)">
+            <summary>Sets the stub of Control.OnStyleChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnStyleChangedEventArgs">
+            <summary>Sets the stub of Control.OnStyleChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnSystemColorsChanged(System.EventArgs)">
+            <summary>Sets the stub of Control.OnSystemColorsChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnSystemColorsChangedEventArgs">
+            <summary>Sets the stub of Control.OnSystemColorsChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnTabIndexChanged(System.EventArgs)">
+            <summary>Sets the stub of Control.OnTabIndexChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnTabIndexChangedEventArgs">
+            <summary>Sets the stub of Control.OnTabIndexChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnTabStopChanged(System.EventArgs)">
+            <summary>Sets the stub of Control.OnTabStopChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnTabStopChangedEventArgs">
+            <summary>Sets the stub of Control.OnTabStopChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnTextChanged(System.EventArgs)">
+            <summary>Sets the stub of Control.OnTextChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnTextChangedEventArgs">
+            <summary>Sets the stub of Control.OnTextChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnValidated(System.EventArgs)">
+            <summary>Sets the stub of Control.OnValidated(EventArgs e)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnValidatedEventArgs">
+            <summary>Sets the stub of Control.OnValidated(EventArgs e)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnValidating(System.ComponentModel.CancelEventArgs)">
+            <summary>Sets the stub of Control.OnValidating(CancelEventArgs e)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnValidatingCancelEventArgs">
+            <summary>Sets the stub of Control.OnValidating(CancelEventArgs e)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.OnVisibleChanged(System.EventArgs)">
+            <summary>Sets the stub of ScrollableControl.OnVisibleChanged(EventArgs e)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.OnVisibleChangedEventArgs">
+            <summary>Sets the stub of ScrollableControl.OnVisibleChanged(EventArgs e)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.PreProcessMessage(System.Windows.Forms.Message@)">
+            <summary>Sets the stub of Control.PreProcessMessage(Message&amp; msg)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.PreProcessMessageMessageRef">
+            <summary>Sets the stub of Control.PreProcessMessage(Message&amp; msg)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.ProcessCmdKey(System.Windows.Forms.Message@,System.Windows.Forms.Keys)">
+            <summary>Sets the stub of ContainerControl.ProcessCmdKey(Message&amp; msg, Keys keyData)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.ProcessCmdKeyMessageRefKeys">
+            <summary>Sets the stub of ContainerControl.ProcessCmdKey(Message&amp; msg, Keys keyData)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.ProcessDialogChar(System.Char)">
+            <summary>Sets the stub of ContainerControl.ProcessDialogChar(Char charCode)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.ProcessDialogCharChar">
+            <summary>Sets the stub of ContainerControl.ProcessDialogChar(Char charCode)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.ProcessDialogKey(System.Windows.Forms.Keys)">
+            <summary>Sets the stub of ContainerControl.ProcessDialogKey(Keys keyData)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.ProcessDialogKeyKeys">
+            <summary>Sets the stub of ContainerControl.ProcessDialogKey(Keys keyData)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.ProcessKeyEventArgs(System.Windows.Forms.Message@)">
+            <summary>Sets the stub of Control.ProcessKeyEventArgs(Message&amp; m)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.ProcessKeyEventArgsMessageRef">
+            <summary>Sets the stub of Control.ProcessKeyEventArgs(Message&amp; m)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.ProcessKeyMessage(System.Windows.Forms.Message@)">
+            <summary>Sets the stub of Control.ProcessKeyMessage(Message&amp; m)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.ProcessKeyMessageMessageRef">
+            <summary>Sets the stub of Control.ProcessKeyMessage(Message&amp; m)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.ProcessKeyPreview(System.Windows.Forms.Message@)">
+            <summary>Sets the stub of Control.ProcessKeyPreview(Message&amp; m)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.ProcessKeyPreviewMessageRef">
+            <summary>Sets the stub of Control.ProcessKeyPreview(Message&amp; m)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.ProcessMnemonic(System.Char)">
+            <summary>Sets the stub of ContainerControl.ProcessMnemonic(Char charCode)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.ProcessMnemonicChar">
+            <summary>Sets the stub of ContainerControl.ProcessMnemonic(Char charCode)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.ProcessTabKey(System.Boolean)">
+            <summary>Sets the stub of ContainerControl.ProcessTabKey(Boolean forward)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.ProcessTabKeyBoolean">
+            <summary>Sets the stub of ContainerControl.ProcessTabKey(Boolean forward)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.Refresh">
+            <summary>Sets the stub of Control.Refresh()</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.Refresh01">
+            <summary>Sets the stub of Control.Refresh()</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.ResetBackColor">
+            <summary>Sets the stub of Control.ResetBackColor()</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.ResetBackColor01">
+            <summary>Sets the stub of Control.ResetBackColor()</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.ResetCursor">
+            <summary>Sets the stub of Control.ResetCursor()</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.ResetCursor01">
+            <summary>Sets the stub of Control.ResetCursor()</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.ResetFont">
+            <summary>Sets the stub of Control.ResetFont()</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.ResetFont01">
+            <summary>Sets the stub of Control.ResetFont()</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.ResetForeColor">
+            <summary>Sets the stub of Control.ResetForeColor()</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.ResetForeColor01">
+            <summary>Sets the stub of Control.ResetForeColor()</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.ResetRightToLeft">
+            <summary>Sets the stub of Control.ResetRightToLeft()</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.ResetRightToLeft01">
+            <summary>Sets the stub of Control.ResetRightToLeft()</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.ResetText">
+            <summary>Sets the stub of Control.ResetText()</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.ResetText01">
+            <summary>Sets the stub of Control.ResetText()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.StubAnalogClock.RightToLeft">
+            <summary>Sets the stub of Control.get_RightToLeft()</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.RightToLeftGet">
+            <summary>Sets the stub of Control.get_RightToLeft()</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.RightToLeftSetRightToLeft">
+            <summary>Sets the stub of Control.set_RightToLeft(RightToLeft value)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.StubAnalogClock.ScaleChildren">
+            <summary>Sets the stub of Control.get_ScaleChildren()</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.ScaleChildrenGet">
+            <summary>Sets the stub of Control.get_ScaleChildren()</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.ScaleControl(System.Drawing.SizeF,System.Windows.Forms.BoundsSpecified)">
+            <summary>Sets the stub of ScrollableControl.ScaleControl(SizeF factor, BoundsSpecified specified)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.ScaleControlSizeFBoundsSpecified">
+            <summary>Sets the stub of ScrollableControl.ScaleControl(SizeF factor, BoundsSpecified specified)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.ScaleCore(System.Single,System.Single)">
+            <summary>Sets the stub of ScrollableControl.ScaleCore(Single dx, Single dy)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.ScaleCoreSingleSingle">
+            <summary>Sets the stub of ScrollableControl.ScaleCore(Single dx, Single dy)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.ScrollToControl(System.Windows.Forms.Control)">
+            <summary>Sets the stub of ScrollableControl.ScrollToControl(Control activeControl)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.ScrollToControlControl">
+            <summary>Sets the stub of ScrollableControl.ScrollToControl(Control activeControl)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.Select(System.Boolean,System.Boolean)">
+            <summary>Sets the stub of ContainerControl.Select(Boolean directed, Boolean forward)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.SelectBooleanBoolean">
+            <summary>Sets the stub of ContainerControl.Select(Boolean directed, Boolean forward)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.SetBoundsCore(System.Int32,System.Int32,System.Int32,System.Int32,System.Windows.Forms.BoundsSpecified)">
+            <summary>Sets the stub of Control.SetBoundsCore(Int32 x, Int32 y, Int32 width, Int32 height, BoundsSpecified specified)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.SetBoundsCoreInt32Int32Int32Int32BoundsSpecified">
+            <summary>Sets the stub of Control.SetBoundsCore(Int32 x, Int32 y, Int32 width, Int32 height, BoundsSpecified specified)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.SetClientSizeCore(System.Int32,System.Int32)">
+            <summary>Sets the stub of Control.SetClientSizeCore(Int32 x, Int32 y)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.SetClientSizeCoreInt32Int32">
+            <summary>Sets the stub of Control.SetClientSizeCore(Int32 x, Int32 y)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.SetVisibleCore(System.Boolean)">
+            <summary>Sets the stub of Control.SetVisibleCore(Boolean value)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.SetVisibleCoreBoolean">
+            <summary>Sets the stub of Control.SetVisibleCore(Boolean value)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.StubAnalogClock.ShowFocusCues">
+            <summary>Sets the stub of Control.get_ShowFocusCues()</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.ShowFocusCuesGet">
+            <summary>Sets the stub of Control.get_ShowFocusCues()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.StubAnalogClock.ShowKeyboardCues">
+            <summary>Sets the stub of Control.get_ShowKeyboardCues()</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.ShowKeyboardCuesGet">
+            <summary>Sets the stub of Control.get_ShowKeyboardCues()</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.StubAnalogClock.Site">
+            <summary>Sets the stub of Control.get_Site()</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.SiteGet">
+            <summary>Sets the stub of Control.get_Site()</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.SiteSetISite">
+            <summary>Sets the stub of Control.set_Site(ISite value)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.SizeFromClientSize(System.Drawing.Size)">
+            <summary>Sets the stub of Control.SizeFromClientSize(Size clientSize)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.SizeFromClientSizeSize">
+            <summary>Sets the stub of Control.SizeFromClientSize(Size clientSize)</summary>
+        </member>
+        <member name="P:AnalogClock.Fakes.StubAnalogClock.Text">
+            <summary>Sets the stub of UserControl.get_Text()</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.TextGet">
+            <summary>Sets the stub of UserControl.get_Text()</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.TextSetString">
+            <summary>Sets the stub of UserControl.set_Text(String value)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.ToString">
+            <summary>Sets the stub of Component.ToString()</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.ToString01">
+            <summary>Sets the stub of Component.ToString()</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.UpdateDefaultButton">
+            <summary>Sets the stub of ContainerControl.UpdateDefaultButton()</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.UpdateDefaultButton01">
+            <summary>Sets the stub of ContainerControl.UpdateDefaultButton()</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.ValidateChildren">
+            <summary>Sets the stub of UserControl.ValidateChildren()</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.ValidateChildren(System.Windows.Forms.ValidationConstraints)">
+            <summary>Sets the stub of UserControl.ValidateChildren(ValidationConstraints validationConstraints)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.ValidateChildren01">
+            <summary>Sets the stub of UserControl.ValidateChildren()</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.ValidateChildrenValidationConstraints">
+            <summary>Sets the stub of UserControl.ValidateChildren(ValidationConstraints validationConstraints)</summary>
+        </member>
+        <member name="M:AnalogClock.Fakes.StubAnalogClock.WndProc(System.Windows.Forms.Message@)">
+            <summary>Sets the stub of UserControl.WndProc(Message&amp; m)</summary>
+        </member>
+        <member name="F:AnalogClock.Fakes.StubAnalogClock.WndProcMessageRef">
+            <summary>Sets the stub of UserControl.WndProc(Message&amp; m)</summary>
+        </member>
+        <member name="T:Microsoft.QualityTools.Testing.Fakes.Delegates.AnalogClockDelegates">
+            <summary>Contains custom delegates used for the stubs and shims of AnalogClock</summary>
+        </member>
+    </members>
+</doc>

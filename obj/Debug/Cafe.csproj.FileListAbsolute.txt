@@ -1,0 +1,253 @@
+E:\project\Cafe\Cafe\bin\Debug\Cafe.exe.config
+E:\project\Cafe\Cafe\obj\Debug\Cafe.FormListKharid.resources
+E:\project\Cafe\Cafe\obj\Debug\Cafe.FormMain.resources
+E:\project\Cafe\Cafe\obj\Debug\Cafe.Properties.Resources.resources
+E:\project\Cafe\Cafe\obj\Debug\Cafe.csproj.GenerateResource.Cache
+E:\project\Cafe\Cafe\bin\Debug\Cafe.exe
+E:\project\Cafe\Cafe\bin\Debug\Cafe.pdb
+E:\project\Cafe\Cafe\bin\Debug\EntityFramework.dll
+E:\project\Cafe\Cafe\bin\Debug\EntityFramework.SqlServer.dll
+E:\project\Cafe\Cafe\bin\Debug\EntityFramework.xml
+E:\project\Cafe\Cafe\bin\Debug\EntityFramework.SqlServer.xml
+E:\project\Cafe\Cafe\obj\Debug\Cafe.FormKharid.resources
+E:\project\Cafe\Cafe\obj\Debug\Cafe.exe
+E:\project\Cafe\Cafe\obj\Debug\Cafe.pdb
+E:\project\Cafe\Cafe\obj\Debug\Cafe.FormListFood.resources
+E:\project\Cafe\Cafe\obj\Debug\Cafe.FormListClient.resources
+E:\project\Cafe\Cafe\obj\Debug\Cafe.FormListOrder.resources
+E:\project\Cafe\Cafe\obj\Debug\Cafe.FormRegisterOrder.resources
+E:\project\Cafe\Cafe\obj\Debug\Cafe.AppSecurity.FormLogin.resources
+E:\project\Cafe\Cafe\bin\Debug\AnalogClock.1.0.1985.27115.Fakes.fakesconfig
+E:\project\Cafe\Cafe\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\project\Cafe\Cafe\obj\Debug\Cafe.csprojFakesResolveAssemblyReference.cache
+E:\project\Cafe\Cafe\obj\Debug\Fakes\ac\b\AnalogClock.1.0.1985.27115.Fakes.dll
+E:\project\Cafe\Cafe\obj\Debug\Fakes\ac\b\AnalogClock.1.0.1985.27115.Fakes.fakesconfig
+E:\project\Cafe\Cafe\obj\Debug\Fakes\ac\b\AnalogClock.1.0.1985.27115.Fakes.pdb
+E:\project\Cafe\Cafe\obj\Debug\Fakes\ac\b\AnalogClock.1.0.1985.27115.Fakes.xml
+E:\project\Cafe\Cafe\obj\Debug\Fakes\ac\b\AnalogClock.dll
+E:\project\Cafe\Cafe\obj\Debug\Fakes\ac\b\BehComponents.dll
+E:\project\Cafe\Cafe\obj\Debug\Fakes\ac\b\EntityFramework.dll
+E:\project\Cafe\Cafe\obj\Debug\Fakes\ac\b\EntityFramework.SqlServer.dll
+E:\project\Cafe\Cafe\obj\Debug\Fakes\ac\b\EntityFramework.SqlServer.xml
+E:\project\Cafe\Cafe\obj\Debug\Fakes\ac\b\EntityFramework.xml
+E:\project\Cafe\Cafe\obj\Debug\Fakes\ac\b\ExtensionDate.dll
+E:\project\Cafe\Cafe\obj\Debug\Fakes\ac\b\Microsoft.QualityTools.Testing.Fakes.dll
+E:\project\Cafe\Cafe\obj\Debug\Fakes\ac\b\Stimulsoft.Base.dll
+E:\project\Cafe\Cafe\obj\Debug\Fakes\ac\b\Stimulsoft.BusinessObjects.dll
+E:\project\Cafe\Cafe\obj\Debug\Fakes\ac\b\Stimulsoft.Controls.dll
+E:\project\Cafe\Cafe\obj\Debug\Fakes\ac\b\Stimulsoft.Controls.Win.dll
+E:\project\Cafe\Cafe\obj\Debug\Fakes\ac\b\Stimulsoft.Database.dll
+E:\project\Cafe\Cafe\obj\Debug\Fakes\ac\b\Stimulsoft.Design.dll
+E:\project\Cafe\Cafe\obj\Debug\Fakes\ac\b\Stimulsoft.Editor.dll
+E:\project\Cafe\Cafe\obj\Debug\Fakes\ac\b\Stimulsoft.Report.Check.dll
+E:\project\Cafe\Cafe\obj\Debug\Fakes\ac\b\Stimulsoft.Report.Compare.dll
+E:\project\Cafe\Cafe\obj\Debug\Fakes\ac\b\Stimulsoft.Report.Design.dll
+E:\project\Cafe\Cafe\obj\Debug\Fakes\ac\b\Stimulsoft.Report.Design.SLViewer.dll
+E:\project\Cafe\Cafe\obj\Debug\Fakes\ac\b\Stimulsoft.Report.dll
+E:\project\Cafe\Cafe\obj\Debug\Fakes\ac\b\Stimulsoft.Report.Helper.dll
+E:\project\Cafe\Cafe\obj\Debug\Fakes\ac\b\Stimulsoft.Report.Win.dll
+E:\project\Cafe\Cafe\obj\Debug\Fakes\ac\f.ah
+E:\project\Cafe\Cafe\obj\Debug\Fakes\ac\f.ch
+E:\project\Cafe\Cafe\obj\Debug\Fakes\ac\f.cs
+E:\project\Cafe\Cafe\obj\Debug\Fakes\ac\f.csproj
+E:\project\Cafe\Cafe\obj\Debug\Fakes\ac\f.fakes
+E:\project\Cafe\Cafe\obj\Debug\Fakes\ac\f.fakesconfig
+E:\project\Cafe\Cafe\obj\Debug\Fakes\ac\o\AnalogClock.1.0.1985.27115.Fakes.dll
+E:\project\Cafe\Cafe\obj\Debug\Fakes\ac\o\AnalogClock.1.0.1985.27115.Fakes.pdb
+E:\project\Cafe\Cafe\obj\Debug\Fakes\ac\o\f.csproj.FileListAbsolute.txt
+E:\project\Cafe\Cafe\obj\Debug\Fakes\fakes.args
+E:\project\Cafe\Cafe\bin\Debug\AnalogClock.1.0.1985.27115.Fakes.dll
+E:\project\Cafe\Cafe\bin\Debug\AnalogClock.1.0.1985.27115.Fakes.xml
+C:\Users\MajidAmani\Desktop\Cafe\Cafe\bin\Debug\Cafe.exe.config
+C:\Users\MajidAmani\Desktop\Cafe\Cafe\obj\Debug\Cafe.exe
+C:\Users\MajidAmani\Desktop\Cafe\Cafe\obj\Debug\Cafe.pdb
+C:\Users\MajidAmani\Desktop\Cafe\Cafe\bin\Debug\Cafe.exe
+C:\Users\MajidAmani\Desktop\Cafe\Cafe\bin\Debug\Cafe.pdb
+C:\Users\MajidAmani\Desktop\Cafe\Cafe\bin\Debug\AnalogClock.1.0.1985.27115.Fakes.fakesconfig
+C:\Users\MajidAmani\Desktop\Cafe\Cafe\bin\Debug\AnalogClock.1.0.1985.27115.Fakes.dll
+C:\Users\MajidAmani\Desktop\Cafe\Cafe\bin\Debug\EntityFramework.dll
+C:\Users\MajidAmani\Desktop\Cafe\Cafe\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MajidAmani\Desktop\Cafe\Cafe\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\MajidAmani\Desktop\Cafe\Cafe\bin\Debug\AnalogClock.1.0.1985.27115.Fakes.xml
+C:\Users\MajidAmani\Desktop\Cafe\Cafe\bin\Debug\EntityFramework.xml
+C:\Users\MajidAmani\Desktop\Cafe\Cafe\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MajidAmani\Desktop\Cafe\Cafe\obj\Debug\Cafe.csprojFakesResolveAssemblyReference.cache
+C:\Users\MajidAmani\Desktop\Cafe\Cafe\obj\Debug\Fakes\ac\b\AnalogClock.1.0.1985.27115.Fakes.dll
+C:\Users\MajidAmani\Desktop\Cafe\Cafe\obj\Debug\Fakes\ac\b\AnalogClock.1.0.1985.27115.Fakes.fakesconfig
+C:\Users\MajidAmani\Desktop\Cafe\Cafe\obj\Debug\Fakes\ac\b\AnalogClock.1.0.1985.27115.Fakes.pdb
+C:\Users\MajidAmani\Desktop\Cafe\Cafe\obj\Debug\Fakes\ac\b\AnalogClock.1.0.1985.27115.Fakes.xml
+C:\Users\MajidAmani\Desktop\Cafe\Cafe\obj\Debug\Fakes\ac\b\AnalogClock.dll
+C:\Users\MajidAmani\Desktop\Cafe\Cafe\obj\Debug\Fakes\ac\b\BehComponents.dll
+C:\Users\MajidAmani\Desktop\Cafe\Cafe\obj\Debug\Fakes\ac\b\EntityFramework.dll
+C:\Users\MajidAmani\Desktop\Cafe\Cafe\obj\Debug\Fakes\ac\b\EntityFramework.SqlServer.dll
+C:\Users\MajidAmani\Desktop\Cafe\Cafe\obj\Debug\Fakes\ac\b\EntityFramework.SqlServer.xml
+C:\Users\MajidAmani\Desktop\Cafe\Cafe\obj\Debug\Fakes\ac\b\EntityFramework.xml
+C:\Users\MajidAmani\Desktop\Cafe\Cafe\obj\Debug\Fakes\ac\b\ExtensionDate.dll
+C:\Users\MajidAmani\Desktop\Cafe\Cafe\obj\Debug\Fakes\ac\b\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\MajidAmani\Desktop\Cafe\Cafe\obj\Debug\Fakes\ac\b\Stimulsoft.Base.dll
+C:\Users\MajidAmani\Desktop\Cafe\Cafe\obj\Debug\Fakes\ac\b\Stimulsoft.BusinessObjects.dll
+C:\Users\MajidAmani\Desktop\Cafe\Cafe\obj\Debug\Fakes\ac\b\Stimulsoft.Controls.dll
+C:\Users\MajidAmani\Desktop\Cafe\Cafe\obj\Debug\Fakes\ac\b\Stimulsoft.Controls.Win.dll
+C:\Users\MajidAmani\Desktop\Cafe\Cafe\obj\Debug\Fakes\ac\b\Stimulsoft.Database.dll
+C:\Users\MajidAmani\Desktop\Cafe\Cafe\obj\Debug\Fakes\ac\b\Stimulsoft.Design.dll
+C:\Users\MajidAmani\Desktop\Cafe\Cafe\obj\Debug\Fakes\ac\b\Stimulsoft.Editor.dll
+C:\Users\MajidAmani\Desktop\Cafe\Cafe\obj\Debug\Fakes\ac\b\Stimulsoft.Report.Check.dll
+C:\Users\MajidAmani\Desktop\Cafe\Cafe\obj\Debug\Fakes\ac\b\Stimulsoft.Report.Compare.dll
+C:\Users\MajidAmani\Desktop\Cafe\Cafe\obj\Debug\Fakes\ac\b\Stimulsoft.Report.Design.dll
+C:\Users\MajidAmani\Desktop\Cafe\Cafe\obj\Debug\Fakes\ac\b\Stimulsoft.Report.Design.SLViewer.dll
+C:\Users\MajidAmani\Desktop\Cafe\Cafe\obj\Debug\Fakes\ac\b\Stimulsoft.Report.dll
+C:\Users\MajidAmani\Desktop\Cafe\Cafe\obj\Debug\Fakes\ac\b\Stimulsoft.Report.Helper.dll
+C:\Users\MajidAmani\Desktop\Cafe\Cafe\obj\Debug\Fakes\ac\b\Stimulsoft.Report.Win.dll
+C:\Users\MajidAmani\Desktop\Cafe\Cafe\obj\Debug\Fakes\ac\f.ah
+C:\Users\MajidAmani\Desktop\Cafe\Cafe\obj\Debug\Fakes\ac\f.ch
+C:\Users\MajidAmani\Desktop\Cafe\Cafe\obj\Debug\Fakes\ac\f.cs
+C:\Users\MajidAmani\Desktop\Cafe\Cafe\obj\Debug\Fakes\ac\f.csproj
+C:\Users\MajidAmani\Desktop\Cafe\Cafe\obj\Debug\Fakes\ac\f.fakes
+C:\Users\MajidAmani\Desktop\Cafe\Cafe\obj\Debug\Fakes\ac\f.fakesconfig
+C:\Users\MajidAmani\Desktop\Cafe\Cafe\obj\Debug\Fakes\ac\o\AnalogClock.1.0.1985.27115.Fakes.dll
+C:\Users\MajidAmani\Desktop\Cafe\Cafe\obj\Debug\Fakes\ac\o\AnalogClock.1.0.1985.27115.Fakes.pdb
+C:\Users\MajidAmani\Desktop\Cafe\Cafe\obj\Debug\Fakes\ac\o\f.csproj.FileListAbsolute.txt
+C:\Users\MajidAmani\Desktop\Cafe\Cafe\obj\Debug\Fakes\ac\o\f.csprojResolveAssemblyReference.cache
+C:\Users\MajidAmani\Desktop\Cafe\Cafe\obj\Debug\Fakes\fakes.args
+C:\Users\MajidAmani\Desktop\Cafe\Cafe\obj\Debug\Cafe.csprojResolveAssemblyReference.cache
+C:\Users\MajidAmani\Desktop\Cafe\Cafe\obj\Debug\Cafe.AppSecurity.FormLogin.resources
+C:\Users\MajidAmani\Desktop\Cafe\Cafe\obj\Debug\Cafe.FormKharid.resources
+C:\Users\MajidAmani\Desktop\Cafe\Cafe\obj\Debug\Cafe.FormListClient.resources
+C:\Users\MajidAmani\Desktop\Cafe\Cafe\obj\Debug\Cafe.FormListFood.resources
+C:\Users\MajidAmani\Desktop\Cafe\Cafe\obj\Debug\Cafe.FormListKharid.resources
+C:\Users\MajidAmani\Desktop\Cafe\Cafe\obj\Debug\Cafe.FormListOrder.resources
+C:\Users\MajidAmani\Desktop\Cafe\Cafe\obj\Debug\Cafe.FormMain.resources
+C:\Users\MajidAmani\Desktop\Cafe\Cafe\obj\Debug\Cafe.FormRegisterOrder.resources
+C:\Users\MajidAmani\Desktop\Cafe\Cafe\obj\Debug\Cafe.Properties.Resources.resources
+C:\Users\MajidAmani\Desktop\Cafe\Cafe\obj\Debug\Cafe.csproj.GenerateResource.Cache
+C:\Users\MajidAmani\Desktop\Visual Studio 2013\Cafe\Cafe\bin\Debug\Cafe.exe.config
+C:\Users\MajidAmani\Desktop\Visual Studio 2013\Cafe\Cafe\obj\Debug\Cafe.exe
+C:\Users\MajidAmani\Desktop\Visual Studio 2013\Cafe\Cafe\obj\Debug\Cafe.pdb
+C:\Users\MajidAmani\Desktop\Visual Studio 2013\Cafe\Cafe\bin\Debug\Cafe.exe
+C:\Users\MajidAmani\Desktop\Visual Studio 2013\Cafe\Cafe\bin\Debug\Cafe.pdb
+C:\Users\MajidAmani\Desktop\Visual Studio 2013\Cafe\Cafe\bin\Debug\AnalogClock.1.0.1985.27115.Fakes.fakesconfig
+C:\Users\MajidAmani\Desktop\Visual Studio 2013\Cafe\Cafe\bin\Debug\AnalogClock.1.0.1985.27115.Fakes.dll
+C:\Users\MajidAmani\Desktop\Visual Studio 2013\Cafe\Cafe\bin\Debug\EntityFramework.dll
+C:\Users\MajidAmani\Desktop\Visual Studio 2013\Cafe\Cafe\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MajidAmani\Desktop\Visual Studio 2013\Cafe\Cafe\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\MajidAmani\Desktop\Visual Studio 2013\Cafe\Cafe\bin\Debug\AnalogClock.1.0.1985.27115.Fakes.xml
+C:\Users\MajidAmani\Desktop\Visual Studio 2013\Cafe\Cafe\bin\Debug\EntityFramework.xml
+C:\Users\MajidAmani\Desktop\Visual Studio 2013\Cafe\Cafe\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MajidAmani\Desktop\Visual Studio 2013\Cafe\Cafe\obj\Debug\Cafe.csprojFakesResolveAssemblyReference.cache
+C:\Users\MajidAmani\Desktop\Visual Studio 2013\Cafe\Cafe\obj\Debug\Fakes\ac\b\AnalogClock.1.0.1985.27115.Fakes.dll
+C:\Users\MajidAmani\Desktop\Visual Studio 2013\Cafe\Cafe\obj\Debug\Fakes\ac\b\AnalogClock.1.0.1985.27115.Fakes.fakesconfig
+C:\Users\MajidAmani\Desktop\Visual Studio 2013\Cafe\Cafe\obj\Debug\Fakes\ac\b\AnalogClock.1.0.1985.27115.Fakes.pdb
+C:\Users\MajidAmani\Desktop\Visual Studio 2013\Cafe\Cafe\obj\Debug\Fakes\ac\b\AnalogClock.1.0.1985.27115.Fakes.xml
+C:\Users\MajidAmani\Desktop\Visual Studio 2013\Cafe\Cafe\obj\Debug\Fakes\ac\b\AnalogClock.dll
+C:\Users\MajidAmani\Desktop\Visual Studio 2013\Cafe\Cafe\obj\Debug\Fakes\ac\b\BehComponents.dll
+C:\Users\MajidAmani\Desktop\Visual Studio 2013\Cafe\Cafe\obj\Debug\Fakes\ac\b\EntityFramework.dll
+C:\Users\MajidAmani\Desktop\Visual Studio 2013\Cafe\Cafe\obj\Debug\Fakes\ac\b\EntityFramework.SqlServer.dll
+C:\Users\MajidAmani\Desktop\Visual Studio 2013\Cafe\Cafe\obj\Debug\Fakes\ac\b\EntityFramework.SqlServer.xml
+C:\Users\MajidAmani\Desktop\Visual Studio 2013\Cafe\Cafe\obj\Debug\Fakes\ac\b\EntityFramework.xml
+C:\Users\MajidAmani\Desktop\Visual Studio 2013\Cafe\Cafe\obj\Debug\Fakes\ac\b\ExtensionDate.dll
+C:\Users\MajidAmani\Desktop\Visual Studio 2013\Cafe\Cafe\obj\Debug\Fakes\ac\b\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\MajidAmani\Desktop\Visual Studio 2013\Cafe\Cafe\obj\Debug\Fakes\ac\b\Stimulsoft.Base.dll
+C:\Users\MajidAmani\Desktop\Visual Studio 2013\Cafe\Cafe\obj\Debug\Fakes\ac\b\Stimulsoft.BusinessObjects.dll
+C:\Users\MajidAmani\Desktop\Visual Studio 2013\Cafe\Cafe\obj\Debug\Fakes\ac\b\Stimulsoft.Controls.dll
+C:\Users\MajidAmani\Desktop\Visual Studio 2013\Cafe\Cafe\obj\Debug\Fakes\ac\b\Stimulsoft.Controls.Win.dll
+C:\Users\MajidAmani\Desktop\Visual Studio 2013\Cafe\Cafe\obj\Debug\Fakes\ac\b\Stimulsoft.Database.dll
+C:\Users\MajidAmani\Desktop\Visual Studio 2013\Cafe\Cafe\obj\Debug\Fakes\ac\b\Stimulsoft.Design.dll
+C:\Users\MajidAmani\Desktop\Visual Studio 2013\Cafe\Cafe\obj\Debug\Fakes\ac\b\Stimulsoft.Editor.dll
+C:\Users\MajidAmani\Desktop\Visual Studio 2013\Cafe\Cafe\obj\Debug\Fakes\ac\b\Stimulsoft.Report.Check.dll
+C:\Users\MajidAmani\Desktop\Visual Studio 2013\Cafe\Cafe\obj\Debug\Fakes\ac\b\Stimulsoft.Report.Compare.dll
+C:\Users\MajidAmani\Desktop\Visual Studio 2013\Cafe\Cafe\obj\Debug\Fakes\ac\b\Stimulsoft.Report.Design.dll
+C:\Users\MajidAmani\Desktop\Visual Studio 2013\Cafe\Cafe\obj\Debug\Fakes\ac\b\Stimulsoft.Report.Design.SLViewer.dll
+C:\Users\MajidAmani\Desktop\Visual Studio 2013\Cafe\Cafe\obj\Debug\Fakes\ac\b\Stimulsoft.Report.dll
+C:\Users\MajidAmani\Desktop\Visual Studio 2013\Cafe\Cafe\obj\Debug\Fakes\ac\b\Stimulsoft.Report.Helper.dll
+C:\Users\MajidAmani\Desktop\Visual Studio 2013\Cafe\Cafe\obj\Debug\Fakes\ac\b\Stimulsoft.Report.Win.dll
+C:\Users\MajidAmani\Desktop\Visual Studio 2013\Cafe\Cafe\obj\Debug\Fakes\ac\f.ah
+C:\Users\MajidAmani\Desktop\Visual Studio 2013\Cafe\Cafe\obj\Debug\Fakes\ac\f.ch
+C:\Users\MajidAmani\Desktop\Visual Studio 2013\Cafe\Cafe\obj\Debug\Fakes\ac\f.cs
+C:\Users\MajidAmani\Desktop\Visual Studio 2013\Cafe\Cafe\obj\Debug\Fakes\ac\f.csproj
+C:\Users\MajidAmani\Desktop\Visual Studio 2013\Cafe\Cafe\obj\Debug\Fakes\ac\f.fakes
+C:\Users\MajidAmani\Desktop\Visual Studio 2013\Cafe\Cafe\obj\Debug\Fakes\ac\f.fakesconfig
+C:\Users\MajidAmani\Desktop\Visual Studio 2013\Cafe\Cafe\obj\Debug\Fakes\ac\o\AnalogClock.1.0.1985.27115.Fakes.dll
+C:\Users\MajidAmani\Desktop\Visual Studio 2013\Cafe\Cafe\obj\Debug\Fakes\ac\o\AnalogClock.1.0.1985.27115.Fakes.pdb
+C:\Users\MajidAmani\Desktop\Visual Studio 2013\Cafe\Cafe\obj\Debug\Fakes\ac\o\f.csproj.FileListAbsolute.txt
+C:\Users\MajidAmani\Desktop\Visual Studio 2013\Cafe\Cafe\obj\Debug\Fakes\ac\o\f.csprojResolveAssemblyReference.cache
+C:\Users\MajidAmani\Desktop\Visual Studio 2013\Cafe\Cafe\obj\Debug\Fakes\fakes.args
+C:\Users\MajidAmani\Desktop\Visual Studio 2013\Cafe\Cafe\obj\Debug\Cafe.csprojResolveAssemblyReference.cache
+C:\Users\MajidAmani\Desktop\Visual Studio 2013\Cafe\Cafe\obj\Debug\Cafe.AppSecurity.FormLogin.resources
+C:\Users\MajidAmani\Desktop\Visual Studio 2013\Cafe\Cafe\obj\Debug\Cafe.FormKharid.resources
+C:\Users\MajidAmani\Desktop\Visual Studio 2013\Cafe\Cafe\obj\Debug\Cafe.FormListClient.resources
+C:\Users\MajidAmani\Desktop\Visual Studio 2013\Cafe\Cafe\obj\Debug\Cafe.FormListFood.resources
+C:\Users\MajidAmani\Desktop\Visual Studio 2013\Cafe\Cafe\obj\Debug\Cafe.FormListKharid.resources
+C:\Users\MajidAmani\Desktop\Visual Studio 2013\Cafe\Cafe\obj\Debug\Cafe.FormListOrder.resources
+C:\Users\MajidAmani\Desktop\Visual Studio 2013\Cafe\Cafe\obj\Debug\Cafe.FormMain.resources
+C:\Users\MajidAmani\Desktop\Visual Studio 2013\Cafe\Cafe\obj\Debug\Cafe.FormRegisterOrder.resources
+C:\Users\MajidAmani\Desktop\Visual Studio 2013\Cafe\Cafe\obj\Debug\Cafe.Properties.Resources.resources
+C:\Users\MajidAmani\Desktop\Visual Studio 2013\Cafe\Cafe\obj\Debug\Cafe.csproj.GenerateResource.Cache
+E:\project\Cafe\Cafe\bin\Debug\ADODB.dll
+E:\project\Cafe\Cafe\obj\Debug\Fakes\ac\b\Accessibility.dll
+E:\project\Cafe\Cafe\obj\Debug\Fakes\ac\b\ADODB.dll
+E:\project\Cafe\Cafe\obj\Debug\Fakes\ac\o\f.csproj.CopyComplete
+E:\project\Cafe\Cafe\obj\Debug\Fakes\ac\o\f.csproj.CoreCompileInputs.cache
+E:\project\Cafe\Cafe\obj\Debug\Fakes\ac\o\f.csprojAssemblyReference.cache
+E:\project\Cafe\Cafe\obj\Debug\Cafe.csprojAssemblyReference.cache
+E:\project\Cafe\Cafe\obj\Debug\Cafe.csproj.CoreCompileInputs.cache
+E:\project\Cafe\Cafe\obj\Debug\Cafe.csproj.CopyComplete
+E:\project\Cafe\Cafe\bin\Debug\Browser.exe
+E:\project\Cafe\Cafe\bin\Debug\Configurator.exe
+E:\project\Cafe\Cafe\bin\Debug\Converter.BusinessObjects.exe
+E:\project\Cafe\Cafe\bin\Debug\Demo.exe
+E:\project\Cafe\Cafe\bin\Debug\Demo.Web.exe
+E:\project\Cafe\Cafe\bin\Debug\Demo.WebSL.exe
+E:\project\Cafe\Cafe\bin\Debug\Demo.Wpf.exe
+E:\project\Cafe\Cafe\bin\Debug\Designer.exe
+E:\project\Cafe\Cafe\bin\Debug\Designer.Wpf.exe
+E:\project\Cafe\Cafe\bin\Debug\Import.ActiveReports.exe
+E:\project\Cafe\Cafe\bin\Debug\Import.CrystalReports.exe
+E:\project\Cafe\Cafe\bin\Debug\Import.FastReports.exe
+E:\project\Cafe\Cafe\bin\Debug\Import.Rdl.exe
+E:\project\Cafe\Cafe\bin\Debug\Import.ReportSharpShooter.exe
+E:\project\Cafe\Cafe\bin\Debug\Import.Rtf.exe
+E:\project\Cafe\Cafe\bin\Debug\Import.XtraReports.exe
+E:\project\Cafe\Cafe\bin\Debug\Installer.exe
+E:\project\Cafe\Cafe\bin\Debug\OptionsHelper.exe
+E:\project\Cafe\Cafe\bin\Debug\ReportChecker.exe
+E:\project\Cafe\Cafe\bin\Debug\ReportChecker.Wpf.exe
+E:\project\Cafe\Cafe\bin\Debug\ReportComparer.exe
+E:\project\Cafe\Cafe\bin\Debug\Stimulsoft.Report.Design.WebViewer.dll
+E:\project\Cafe\Cafe\bin\Debug\Stimulsoft.Report.Wpf.dll
+E:\project\Cafe\Cafe\bin\Debug\Stimulsoft.Report.WpfDesign.dll
+E:\project\Cafe\Cafe\bin\Debug\Stimulsoft.Report.Design.WebViewer.pdb
+E:\project\Cafe\Cafe\bin\Debug\Stimulsoft.Report.Design.WebViewer.xml
+E:\project\Cafe\Cafe\bin\Debug\Stimulsoft.Report.Wpf.pdb
+E:\project\Cafe\Cafe\bin\Debug\Stimulsoft.Report.Wpf.xml
+E:\project\Cafe\Cafe\bin\Debug\Stimulsoft.Report.WpfDesign.pdb
+E:\project\Cafe\Cafe\bin\Debug\Stimulsoft.Report.WpfDesign.xml
+E:\project\Cafe\Cafe\obj\Debug\Fakes\ac\b\Browser.exe
+E:\project\Cafe\Cafe\obj\Debug\Fakes\ac\b\Configurator.exe
+E:\project\Cafe\Cafe\obj\Debug\Fakes\ac\b\Converter.BusinessObjects.exe
+E:\project\Cafe\Cafe\obj\Debug\Fakes\ac\b\Demo.exe
+E:\project\Cafe\Cafe\obj\Debug\Fakes\ac\b\Demo.Web.exe
+E:\project\Cafe\Cafe\obj\Debug\Fakes\ac\b\Demo.WebSL.exe
+E:\project\Cafe\Cafe\obj\Debug\Fakes\ac\b\Demo.Wpf.exe
+E:\project\Cafe\Cafe\obj\Debug\Fakes\ac\b\Designer.exe
+E:\project\Cafe\Cafe\obj\Debug\Fakes\ac\b\Designer.Wpf.exe
+E:\project\Cafe\Cafe\obj\Debug\Fakes\ac\b\Import.ActiveReports.exe
+E:\project\Cafe\Cafe\obj\Debug\Fakes\ac\b\Import.CrystalReports.exe
+E:\project\Cafe\Cafe\obj\Debug\Fakes\ac\b\Import.FastReports.exe
+E:\project\Cafe\Cafe\obj\Debug\Fakes\ac\b\Import.Rdl.exe
+E:\project\Cafe\Cafe\obj\Debug\Fakes\ac\b\Import.ReportSharpShooter.exe
+E:\project\Cafe\Cafe\obj\Debug\Fakes\ac\b\Import.Rtf.exe
+E:\project\Cafe\Cafe\obj\Debug\Fakes\ac\b\Import.XtraReports.exe
+E:\project\Cafe\Cafe\obj\Debug\Fakes\ac\b\Installer.exe
+E:\project\Cafe\Cafe\obj\Debug\Fakes\ac\b\OptionsHelper.exe
+E:\project\Cafe\Cafe\obj\Debug\Fakes\ac\b\ReportChecker.exe
+E:\project\Cafe\Cafe\obj\Debug\Fakes\ac\b\ReportChecker.Wpf.exe
+E:\project\Cafe\Cafe\obj\Debug\Fakes\ac\b\ReportComparer.exe
+E:\project\Cafe\Cafe\obj\Debug\Fakes\ac\b\Stimulsoft.Report.Design.WebViewer.dll
+E:\project\Cafe\Cafe\obj\Debug\Fakes\ac\b\Stimulsoft.Report.Design.WebViewer.pdb
+E:\project\Cafe\Cafe\obj\Debug\Fakes\ac\b\Stimulsoft.Report.Design.WebViewer.xml
+E:\project\Cafe\Cafe\obj\Debug\Fakes\ac\b\Stimulsoft.Report.Wpf.dll
+E:\project\Cafe\Cafe\obj\Debug\Fakes\ac\b\Stimulsoft.Report.Wpf.pdb
+E:\project\Cafe\Cafe\obj\Debug\Fakes\ac\b\Stimulsoft.Report.Wpf.xml
+E:\project\Cafe\Cafe\obj\Debug\Fakes\ac\b\Stimulsoft.Report.WpfDesign.dll
+E:\project\Cafe\Cafe\obj\Debug\Fakes\ac\b\Stimulsoft.Report.WpfDesign.pdb
+E:\project\Cafe\Cafe\obj\Debug\Fakes\ac\b\Stimulsoft.Report.WpfDesign.xml

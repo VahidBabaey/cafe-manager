@@ -1,0 +1,13 @@
+E:\project\Cafe\Cafe\obj\Release\Cafe.csprojFakesResolveAssemblyReference.cache
+E:\project\Cafe\Cafe\obj\Release\Cafe.csprojAssemblyReference.cache
+E:\project\Cafe\Cafe\obj\Release\Cafe.AppSecurity.FormLogin.resources
+E:\project\Cafe\Cafe\obj\Release\Cafe.FormKharid.resources
+E:\project\Cafe\Cafe\obj\Release\Cafe.FormListClient.resources
+E:\project\Cafe\Cafe\obj\Release\Cafe.FormListFood.resources
+E:\project\Cafe\Cafe\obj\Release\Cafe.FormListKharid.resources
+E:\project\Cafe\Cafe\obj\Release\Cafe.FormListOrder.resources
+E:\project\Cafe\Cafe\obj\Release\Cafe.FormMain.resources
+E:\project\Cafe\Cafe\obj\Release\Cafe.FormRegisterOrder.resources
+E:\project\Cafe\Cafe\obj\Release\Cafe.Properties.Resources.resources
+E:\project\Cafe\Cafe\obj\Release\Cafe.csproj.GenerateResource.cache
+E:\project\Cafe\Cafe\obj\Release\Cafe.csproj.CoreCompileInputs.cache

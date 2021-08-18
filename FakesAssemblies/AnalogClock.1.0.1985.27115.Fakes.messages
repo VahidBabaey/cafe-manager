@@ -1,0 +1,2 @@
+E:\project\Cafe\Cafe\Fakes\AnalogClock.fakes : warning : Cannot generate stub for AnalogClock.TickStyle: type is a value type.
+E:\project\Cafe\Cafe\Fakes\AnalogClock.fakes : warning : Cannot generate shim for AnalogClock.TickStyle: type is an enum.
